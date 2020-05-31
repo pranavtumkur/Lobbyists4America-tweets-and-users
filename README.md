@@ -1,4 +1,4 @@
-# Analysis of Twitter data for Lobbyists4America
+# Analysis of Twitter data for Lobbyists4Good
 ![Screenshot (230)](https://user-images.githubusercontent.com/65482013/83346603-88199f80-a33b-11ea-89f2-202c73779aab.jpg)(https://www.lobbyists4good.org/)
 
 ## The Interest
@@ -33,7 +33,7 @@ I found out trends, outliers, key parameters and performance indices using the u
 ## Tweet text analysis
 ### *The most interesting part of the project was the analysis of actual tweet data!*
 
-I did a textual analysis for Term Frequency. I tried to see which words were most frequently used in the tweets by the Congressmen in the context of Lobbyists4America, using a word cloud. The same was done for the commonly used hashtags too. Stop words were eliminated when analysing the same. This was followed by a sentiment and subjectivity analysis of the tweet data.
+I did a textual analysis for Term Frequency. I tried to see which words were most frequently used in the tweets by the Congressmen in the context of Lobbyists4Good, using a word cloud. The same was done for the commonly used hashtags too. Stop words were eliminated when analysing the same. This was followed by a sentiment and subjectivity analysis of the tweet data.
 
 A correlation was found between the retweet count and the sentiment analysis. People who had a positive sentiment were more active and retweeted on the cause far more. A real shocker was the subjectivity analysis, which is heavily skewed towards 0 **(Avg.:0.292)**, suggesting that almost all tweets are just factual which should not be the case for such a humanitarian cause. On taking some sample data, it was found that the tweets were in fact related to the cause of Lobbyists4Good but since the same was explicitly not mentioned, keyword search failed to show the correct subjectivity score in these cases.
 
