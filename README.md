@@ -1,4 +1,5 @@
 # Analysis of Twitter data for Lobbyists4America
+![Screenshot (230)](https://user-images.githubusercontent.com/65482013/83346603-88199f80-a33b-11ea-89f2-202c73779aab.jpg)(https://www.lobbyists4good.org/)
 
 ## The Interest
 Having an avid interest in American politics and also intrigued by the unique concept of lobbying for a bill, this particular dataset appealed to me.
